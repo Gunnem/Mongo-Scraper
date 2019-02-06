@@ -4,6 +4,7 @@
 ### An Application to retrieve the latest headlines from 'Gizmodo.com' using:
 * node.js
 * express
+* express-handlebars
 * mongoDB
 * axios
 * bootstrap
