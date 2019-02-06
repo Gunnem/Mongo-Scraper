@@ -1,0 +1,27 @@
+{
+  "name": "mongo-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Matthew Kim",
+  "license": "ISC",
+  "bugs": {
+  },
+  "homepage": "",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9",
+    "morgan": "^1.9.0"
+  }
+}
